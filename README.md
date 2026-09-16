@@ -89,7 +89,8 @@ Everyone's specializing, but I went wide instead, learning how most of the piece
 <a href="mailto:nirjargoswami2626@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/nirjxr26"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 <a href="https://nirjar.me"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=flat&logo=googlechrome&logoColor=white"></a>
-<a href="https://blog.nirjar.me"><img src="https://img.shields.io/badge/Blog-F97316?style=flat&logo=hashnode&logoColor=white"></a>
+<a href="https://nirjar.me/articles"><img src="https://img.shields.io/badge/Articles-F97316?style=flat&logo=readthedocs&logoColor=white"></a>
+
 </p>
 
 
