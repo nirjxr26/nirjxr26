@@ -6,12 +6,6 @@
 
 ---
 
-## About
-
-Everyone's specializing, but I went wide instead, learning how most of the pieces connect rather than mastering just one.
-
----
-
 ## Featured Work
 
 
