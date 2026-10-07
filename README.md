@@ -9,7 +9,8 @@
 ## Featured Work
 
 
-### [Trace](https://github.com/nirjxr26/Trace) 
+### [Trace](https://github.com/nirjxr26/Trace)
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://nirjar.me/works/trace)
 
 - A forensic imaging and data acquisition tool for hardware-level evidence handling.
 - Write-protection before touching a device and fails closed if it can't confirm the device is safe to read
