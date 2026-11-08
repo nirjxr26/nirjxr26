@@ -15,7 +15,7 @@
 - A forensic imaging and data acquisition tool for hardware-level evidence handling.
 - Write-protection before touching a device and fails closed if it can't confirm the device is safe to read
   
-> Currently working 
+> In Development
 
 ---
 
