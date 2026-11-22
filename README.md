@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nirjar Goswami
-**Associate Cloud and Security Engineer | Ahmedabad, India**
+**Generalist — Proficient in Cloud & DevOps | Cybersecurity | System Design**
 </div>
 
 ---
@@ -57,10 +57,10 @@
 
 | Category | Technologies |
 |---|---|
-| **Cloud & DevOps** | AWS, Linux, Terraform, Docker, Kubernetes, Jenkins, Helm, ArgoCD, GitHub Actions |
-| **Security** | Trivy, Cosign, Falco, SonarQube, SealedSecrets, CrowSec |
+| **Cloud & DevSecOps** | AWS, Linux, Terraform, Docker, Kubernetes, Jenkins, Helm, ArgoCD, GitHub Actions, Trivy, Cosign, Falco, CrowdSec  |
+| **Cybersecurity** | Nmap, Wireshark, Burp Suite, Metasploit, Nikto, SQLmap, Hydra, Ghidra |
 | **Observability** | Prometheus, Grafana, Datadog, OpenTelemetry, Loki, Alertmanager |
-| **Languages** | Go, Python, JavaScript/TypeScript, Bash, SQL, HCL |
+| **Languages** | Rust, Go, Python, Bash, JavaScript/TypeScript |
 
 ---
 
@@ -74,14 +74,6 @@
 - Charotar Science and Technology University (CHARUSAT), Anand  
 - 2026 – 2028
 - Grade – 9 / 10 CGPA
-
----
-
-## Community
-
-### Google Student Ambassador
-- Conducted 5+ peer interviews gathering student feedback on AI tool adoption for Google’s Gemini ambassador initiative.
-- Led Gemini demos at CHARUSAT University, showcasing AI-assisted debugging, documentation, and developer workflows.
 
 ---
 
